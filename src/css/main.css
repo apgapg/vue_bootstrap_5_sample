@@ -1,0 +1,5 @@
+.btn-primary:focus,
+.btn-primary:active {
+  box-shadow: none !important;
+  outline: 0px !important;
+}
